@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi it's Minh 🧠
 
-<!--
-**hmp94/hmp94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Psychology (Brain & Cognition) student at the University of Amsterdam.
 
-Here are some ideas to get you started:
+I'm interested in how the brain represents space, motion, and geometry,
+and I use computational and psychophysical methods to study these questions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmp94&show_icons=true&theme=dark)
+
+## 🔗 Links
+- 🌐 [Portfolio](https://hmp94.github.io)
+- 📸 [Instagram](https://instagram.com/_.fmpril._)
